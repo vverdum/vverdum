@@ -1,7 +1,7 @@
  - 👋 Hi, I’m @vverdum
 - 👀 I’m interested in becoming a great full-stack developer.
 - 🌱 I’m currently learning Java (Spring), RPA, React, and Spanish (Duolingo).
-- 💞️ I’m looking to collaborate on on agriculture-related technology projects. 
+- 💞️ I’m looking to collaborate on technology projects. 
 - 📫 How to reach me on: www.linkedin.com/in/dev-vverdum
 - ⚡ Fun fact: ...
 
